@@ -49,7 +49,7 @@ class Innings
       }
 }
 
-public class InningsMain 
+public class Innings_Main 
 {
       public static void main(String[] args)
       {
