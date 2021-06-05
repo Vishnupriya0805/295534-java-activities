@@ -72,7 +72,7 @@ class SuiteACRoom extends HotelRoom{
     //getRatePerSqFeet –returns (ratePerSqFeet + 2) if wifi is present, else returns ratePerSqFeet.
 }
 
-public class Hotel_Mian{ 
+public class Hotel_Main{ 
     public static void main(String[] args) {
         System.out.println("Afrid");
         String hotelName;
