@@ -2,7 +2,7 @@ package Activity1;
 
 import java.util.Scanner;
 
-public class Companymain {
+public class Company_main {
 	public static void main(String[] args) {
 		ltts_Company emp = new ltts_Company();
 		String name,mobile,address;
