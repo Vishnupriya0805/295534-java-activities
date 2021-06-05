@@ -28,7 +28,7 @@ class Customer
       }      
 }
 
-public class CustomerMain 
+public class Customer_Main 
 {
       public static void main(String[] args)
       {
